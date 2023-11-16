@@ -1,0 +1,21 @@
+{
+  "name": "attack-displayer",
+  "title": "Attack Displayer",
+  "description": "A simple module that handles the way attacks are displayed, allowing additional options for sorting and displaying all attacks made in a round",
+  "authors": [
+    {
+      "name": "elmiang"
+    }
+  ],
+  "scripts": [
+      "scripts/app.js"
+  ],
+  "styles": [
+    "styles/main.css"
+  ],
+  "version": "1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "11"
+  }
+}
