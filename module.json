@@ -17,5 +17,7 @@
   "compatibility": {
     "minimum": "9",
     "verified": "11"
-  }
+  },
+  "url": "https://github.com/elmiang/attack-displayer",
+  "download": "https://github.com/elmiang/attack-displayer/archive/refs/tags/v0.1.zip"
 }
